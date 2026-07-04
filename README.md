@@ -84,7 +84,7 @@ Each design module is paired with a testbench that applies all relevant input co
 
 ## Documentation
 
-Complete project documentation — including design details, testbench structure, and simulation results — is available in [`docs/ModelSim_Project_Documentation.pdf`](docs/Documentation_task1.pdf).
+Complete project documentation — including design details, testbench structure, and simulation results — is available in [https://github.com/kmuralikrishna9963-hash/digital_circuit/blob/main/documentation/Documentation_task1.pdf).
 
 ## Author
 
